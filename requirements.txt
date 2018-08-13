@@ -7,3 +7,4 @@ pygame
 Pillow
 psutil
 pyyaml
+setuptools<=39.1.0
